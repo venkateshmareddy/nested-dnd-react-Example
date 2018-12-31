@@ -1,7 +1,7 @@
 {
-  "name": "testing-package",
+  "name": "nested-dnd-react-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "example to show how to implement the nested-dnd-react",
   "main": "index.js",
   "author": "",
   "license": "ISC",
